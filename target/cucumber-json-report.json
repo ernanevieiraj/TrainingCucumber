@@ -1,0 +1,51 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-07-14T17:41:17.713Z",
+        "line": 12,
+        "name": "Deve incrementar contador",
+        "description": "",
+        "id": "aprender-cucumber;deve-incrementar-contador",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "que o valor do contador é 15 peras",
+            "match": {},
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "eu incrementar em 3",
+            "match": {},
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "o valor do contador será 18",
+            "match": {},
+            "keyword": "Então "
+          }
+        ]
+      }
+    ],
+    "name": "Aprender Cucumber",
+    "description": "  Como um aluno\n  Eu quero aprender a utilizar Cucumber\n  Para que eu possa automatizar critérios de aceitação",
+    "id": "aprender-cucumber",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/main/java/aprender_cucumber.feature",
+    "tags": []
+  }
+]
